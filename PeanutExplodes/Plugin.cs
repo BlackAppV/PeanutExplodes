@@ -18,7 +18,6 @@ namespace PeanutExplodes
         Version = "v1.0.1"
         )]
 
-
     public class PluginClass : AbstractPlugin
     {
 
