@@ -1,6 +1,6 @@
 # PeanutExplodes
 PeanutExplodes is a Plugin for SCP:SL. Will only works with Synapse. Peanut will explode in hes dead
-- `And thank you to Dimenzio for help`
+- `And thank you to Dimenzio and TheVoidNebula for help`
 # !!!If the grenade explodes there is a short delay. That means you only die after a few seconds!!!
 I can not help it :/
 # How to install?
