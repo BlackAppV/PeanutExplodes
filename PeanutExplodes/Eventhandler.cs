@@ -14,6 +14,7 @@ namespace PeanutExplodes
             Server.Get.Events.Player.PlayerDeathEvent += OnDeath;
         }
 
+
         public void OnDeath(Synapse.Api.Events.SynapseEventArguments.PlayerDeathEventArgs ev)
         {
             try
